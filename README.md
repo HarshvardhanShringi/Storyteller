@@ -1,5 +1,5 @@
 # Storyteller
-An end to end  Data Analyst webapp using Streamlit (Python Library)
+An end to end  Data Analytis webapp using Streamlit (Python Library)
 
 It performs four operations -
 
